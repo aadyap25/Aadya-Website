@@ -1,0 +1,123 @@
+#AA{
+    width: 270px;
+    length: 250px;
+
+}
+
+body {
+    text-align: center;
+    background-color: rgb(247, 236, 237);
+}
+
+.page-header {
+    padding-bottom:9px;
+    margin:40px 0 20px;
+    border-bottom: 1px solid #eee;
+}
+
+#la {
+   padding-top: 40px;
+    width: 300px;
+    length: 300px;
+}
+
+.book_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.book_head i{
+    float: right;
+}
+
+#meme {
+    padding: 20px;
+}
+
+#memo {
+    padding: 20px;
+}
+
+#me {
+    padding: 20px;
+}
+
+#RA {
+width: 200px;
+length: 200px;
+}
+
+#KP {
+    width: 200px;
+    length: 200px;
+    border: rgba(14, 13, 13, 0.918);
+    }
+
+#heart {
+    padding:20px;
+}
+
+.Story_head i{
+    float: right;
+}
+
+.Story_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+#ARWAA {
+    padding:20px;
+}
+
+.Blog_head {
+    float: right;
+}
+
+.Blog_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+#Adi {
+width:200px;
+length:200px;
+}
+
+#Contact iframe {
+    width: 100%;
+}
+
+#AKK {
+    padding:20px;
+}
+
+#crazy {
+    width: 250px;
+    length: 250px; 
+}
+
+#heart {
+    width:275px;
+    length:275px;
+}
+
+#mad {
+    width:275px;
+    length:275px;
+}
+
+#okay {
+    padding: 20px;
+}
+
+#mickey {
+    padding: 20px;
+}
+
