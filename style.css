@@ -21,6 +21,9 @@ body {
     length: 300px;
 }
 
+#creepout {
+    padding: 5px;
+}
 .book_head {
     font-size: 20px;
     padding: 6px 22px;
